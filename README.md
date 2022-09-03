@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 ## 📈 MY STATS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhabriamuskan31&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="SarveshPatil29" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhabriamuskan31&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="chhabriamuskan31" /></p>
 <p>(Changed Username)</p>
 
 <p align="center"><img alt="muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhabriamuskan31&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
