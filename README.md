@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **chhabriamuskan31/chhabriamuskan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
