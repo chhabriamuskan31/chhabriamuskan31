@@ -51,4 +51,4 @@ ________________________________________________________________________________
 
 <p align="center"><img alt="chhabriamuskan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chhabriamuskan31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<!-- <img alt="chhabriamuskan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhabriamuskan31&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/> -->
+<img alt="chhabriamuskan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhabriamuskan31&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
