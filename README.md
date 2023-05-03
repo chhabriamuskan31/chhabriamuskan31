@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muskan-chhabria-924747218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"alt="chhabriamuskan31" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/620836c2-2399-4d30-8e4c-2703f1ba09f9" target="blank"><img align="center" src="https://files.codingninjas.in/0000000000000723.jpg" alt="chhabriamuskan31" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muskan-chhabria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"alt="muskan-chhabria" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/muskanchhabria31" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="muskanchhabria31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
