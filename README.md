@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhabriamuskan31&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="chhabriamuskan31" /> </p>
 
-- 🔭 I’m currently working on **Web development, Artificial Intelligence**
+- 🔭 I’m currently working on **Web development, Machine Learning**
 
 - 🌱 I’m currently learning **TypeScript, Algorithms, Angular**
 
