@@ -42,13 +42,13 @@ ________________________________________________________________________________
 
 ## 📈 MY STATS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhabriamuskan31&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="chhabriamuskan31" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=chhabriamuskan31&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="chhabriamuskan31" /></p>
 <p>chhabriamuskan31</p>
 
-<p align="center"><img alt="muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhabriamuskan31&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<p align="center"><img alt="muskan's Top Languages" src="https://github-readme-stats.vercel.app/api?username=chhabriamuskan31"/></p>
 
 <p align="center">&nbsp;<img alt="chhabriamuskan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chhabriamuskan31&theme=react&hide_border=true&stroke=0000&background=0D1117"/></p>
 
 <p align="center"><img alt="chhabriamuskan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chhabriamuskan31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<!-- <img alt="chhabriamuskan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhabriamuskan31&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/> -->
+<img alt="chhabriamuskan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?user=chhabriamuskan31&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
